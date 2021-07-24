@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Badrul</h1>
-<h3 align="center">A clueless Software Engineer from Malaysia</h3>
+<h3 align="center">A confused Software Engineer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badrulhadi&label=Profile%20views&color=0e75b6&style=flat" alt="badrulhadi" /> </p>
 
